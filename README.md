@@ -5,9 +5,9 @@ VS 实在是让人舍不得……以至于 win 上如此难以配置，我还是
 
 步骤：
 
--   QT5，我下载了官方的 [5.8.0](http://mirrors.ustc.edu.cn/qtproject/official_releases/qt/5.8/5.8.0/qt-opensource-windows-x86-msvc2015_64-5.8.0.exe)，我的备份；<http://url.cn/44NeIZA> (273 MB)
--   Boost，需要设置环境变量：`BOOST_DIR`，`BOOST_ROOT`，<http://url.cn/44Ne6Ex> (116 MB)
--   OpenCV3 (optional): <http://url.cn/44Nx1Sl> (53 MB)
+-   [QT5](http://mirrors.ustc.edu.cn/qtproject/official_releases/qt/5.8/5.8.0/qt-opensource-windows-x86-msvc2015_64-5.8.0.exe) *我的备份：<http://url.cn/44NeIZA> (273 MB)*
+-   [Boost](https://sourceforge.net/projects/boost/files/boost-binaries/1.63.0/)，需要设置环境变量：`BOOST_DIR`，`BOOST_ROOT` *我的备份：<http://url.cn/44Ne6Ex> (116 MB)*
+-   [OpenCV3](https://github.com/opencv/opencv/releases/tag/3.2.0) (optional) *我的备份：<http://url.cn/44Nx1Sl> (53 MB)*
 
 About
 -----
