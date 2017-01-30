@@ -9,6 +9,11 @@ VS 实在是让人舍不得……以至于 win 上如此难以配置，我还是
 -   [Boost](https://sourceforge.net/projects/boost/files/boost-binaries/1.63.0/)，需要设置环境变量：`BOOST_DIR`，`BOOST_ROOT` *我的备份：<http://url.cn/44Ne6Ex> (116 MB)*
 -   [OpenCV3](https://github.com/opencv/opencv/releases/tag/3.2.0) (optional) *我的备份：<http://url.cn/44Nx1Sl> (53 MB)*
 
+TODO:
+
+-   equirectangular -> box images
+-   image match
+
 About
 -----
 
